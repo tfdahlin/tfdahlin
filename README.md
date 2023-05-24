@@ -3,7 +3,7 @@ Hello there! I'm a person of many names, and many faces, but professionally I us
 I grew up in Southern California, but have been back and forth from coast to coast plenty of times
 between my education and my career. Currently, I'm working from North Carolina, but we'll see if
 that lasts. I earned my Bachelor's degree in 2017, and have a professional background in cybersecurity,
-devops, and software engineering. Much of my work falls under standard NDA
+devops, and software engineering. 
 
 # My Influences
 I know a lot of people like to list languages and frameworks here, but realistically any knowledge
