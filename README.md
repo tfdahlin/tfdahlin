@@ -72,5 +72,7 @@ crazy fonts and cursor trails and animated pixel art all over my screen. I want 
 and feel a sense of wonder and curiosity. But the vast majority of the web can never escape it,
 because they're bound by the rules of maintaining brand image.
 
-
+<div align="center">
 Stay weird👽, be gay🌈, and do crimes🚨.
+<img src="https://github.com/tfdahlin/tfdahlin/blob/main/typing.gif"></img>
+</div>
